@@ -6,8 +6,8 @@ Hi there! I'm a passionate software developer working on the National Arable Far
 
 ### A Bit More About My Journey 🚀
 
-- 🎓 **BSc in Information Systems and Data Management**: Recently completed my degree while simultaneously working on Temo-Letlotlo. Balancing both commitments taught me time management and multitasking skills.
-- 💼 **Internship at Botswana Harvard Health Partnership**: After completing my degree, I took on an internship where I had my first experience with Django and worked with legacy code, contributing to a large public repository. This was all while continuing my work at Temo-Letlotlo, demonstrating my ability to juggle multiple responsibilities effectively.
+- 🎓 **BSc in Information Systems and Data Management**: Recently completed my degree (December 2024) while simultaneously working on Temo-Letlotlo. Balancing both commitments taught me time management and multitasking skills.
+- 💼 **Internship at Botswana Harvard Health Partnership**: After completing my degree, I took on an internship from February 2024 to May 2024 where I had my first experience with Django and worked with legacy code, contributing to a large public repository. This was all while continuing my work at Temo-Letlotlo, demonstrating my ability to juggle multiple responsibilities effectively.
 - 🏆 **UNESCO India-Africa Hackathon**: In November 2022, I participated in the UNESCO India Africa Hackathon held at Gautam Buddha University in Greater Noida. Our team secured the 1st position, which was a thrilling and rewarding experience.
 - 🔥 **Passion Projects**: Currently working on an exciting project called [Fate Phantasm, BW Ghost's Touch](https://github.com/Onkgopotse007/Fate-Phantasm-BW-Ghost-touch). This is a game I'm developing using .NET WebAPI for the backend, inspired by the Fate series characters by Kinoko Nasu. I really enjoyed watching the anime and thought of creating an RPG based on those characters. Feel free to check it out and explore the code!
 
