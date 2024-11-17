@@ -20,8 +20,8 @@ During my time on the Temo-Letlotlo project, I've made significant contributions
 
 ### Skills and Technologies 🛠️
 
-- **Languages**: TypeScript, JavaScript, Python
-- **Frameworks**: Node.js, Django
+- **Languages**: TypeScript, JavaScript, Python, c#
+- **Frameworks**: Node.js, Django, .NET 
 - **Databases**: SQL, NoSQL
 - **Tools**: Git, Docker, Postman, Azure devops
 - **Concepts**: RESTful APIs, Legacy Code Management, Agile Development
